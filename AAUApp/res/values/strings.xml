@@ -3,6 +3,15 @@
 
     <string name="app_name">AAU App</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="btnPlayerList">Player List</string>
+    <string name="btnLogin">Login</string>
+    <string name="update">Update</string>
+    
+    <string name="fgm">Field Goals Made</string>
+    <string name="fta">Free Throw Attempts</string>
+    <string name="threepm">3-pointers Made</string>
+    <string name="totpts">Total Points</string>
+    <string name="ftp">Free Throw %</string>
+    
 
 </resources>
