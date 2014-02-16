@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
+    <!-- General -->
     <string name="app_name">AAU App</string>
     <string name="action_settings">Settings</string>
     <string name="btnPlayerList">Player List</string>
     <string name="btnLogin">Login</string>
     <string name="update">Update</string>
-    
+
+    <!-- Player Update -->
     <string name="fgm">Field Goals Made</string>
     <string name="fta">Free Throw Attempts</string>
     <string name="threepm">3-pointers Made</string>
     <string name="totpts">Total Points</string>
     <string name="ftp">Free Throw %</string>
     
-
+	<!-- Authentication/Login Related -->
+	<string name="btn_add_account">New +</string>
+    <string name="listview_row_accounts">Manage</string>
+    
 </resources>
