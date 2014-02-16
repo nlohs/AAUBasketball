@@ -162,7 +162,7 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@id/tvFTP"
         android:layout_marginTop="20dp"
-        android:background="@drawable/btn_default_holo_dark" 
+        android:background="@drawable/btnDark" 
         android:text="@string/update"
         android:textColor="@color/text"
     />
