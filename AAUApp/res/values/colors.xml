@@ -9,6 +9,9 @@
     <color name="backbar">#313131</color>
     <color name="orange">#C88141</color>
     <color name="slategray">#25383C</color>
-    <color name="dkgray">#2f3239</color>
+    <color name="dkgray">#2f3239</color>       
+    <color name="blue_light">#3A6672</color> 
+    <color name="blue_middle">#3A4972</color>
+    <color name="blue_dark">#33485b</color>
 
 </resources>
