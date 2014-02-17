@@ -7,6 +7,9 @@
     <string name="btnPlayerList">Player List</string>
     <string name="btnLogin">Login</string>
     <string name="update">Update</string>
+    <string name="section">Section</string>
+    <string name="sampleText">Text Here</string>
+    <string name="imgDesc">Icon Image</string>
 
     <!-- Player Update -->
     <string name="fgm">Field Goals Made</string>

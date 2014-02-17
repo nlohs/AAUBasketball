@@ -1,17 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     
-	<color name="text">#3a91d8</color>
+	<color name="text">#3A91D8</color>
     <color name="black">#000000</color>
     <color name="cyan">#00FFFF</color>
     <color name="white">#FFFFFF</color>
     <color name="gray">#666666</color>
     <color name="backbar">#313131</color>
     <color name="orange">#C88141</color>
-    <color name="slategray">#25383C</color>
-    <color name="dkgray">#2f3239</color>       
-    <color name="blue_light">#3A6672</color> 
-    <color name="blue_middle">#3A4972</color>
-    <color name="blue_dark">#33485b</color>
+    <color name="light_slategray">#6E7585</color>
+    <color name="slategray">#3A3D46</color>
+    <color name="dark_slategray">#2F3239</color>
 
 </resources>

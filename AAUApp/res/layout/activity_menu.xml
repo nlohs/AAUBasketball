@@ -3,6 +3,6 @@
    android:name="com.ist413.aauapp.SlidingMenuFragment"
    android:layout_width="match_parent"
    android:layout_height="match_parent"
-   android:id="@+id/slidingmenu">
+   android:id="@+id/slidingmenu" >
 	
 </fragment>

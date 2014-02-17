@@ -15,13 +15,9 @@ public class MainActivity extends FragmentActivity {
     @Override
 	public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_main);
+        setContentView(R.layout.mainscreen_fragment);
         
-        // Setting sliding menu content layout
-        //setBehindContentView(R.layout.activity_menu);
-        //getSlidingMenu().setBehindOffset(300);
-        
-        // Create menu
+        // Creating menu 
         slidingMenu = new SlidingMenu(this);
         slidingMenu.setMode(SlidingMenu.LEFT);
         slidingMenu.setTouchModeAbove(SlidingMenu.TOUCHMODE_FULLSCREEN);

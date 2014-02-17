@@ -3,11 +3,11 @@
    android:layout_width="match_parent"
    android:layout_height="match_parent"
    android:orientation="vertical"
-   android:background="@color/blue_dark" >
+   android:background="@color/slategray" >
 
      <ExpandableListView android:id="@+id/slidingmenu_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:transcriptMode="alwaysScroll"/>
+        android:transcriptMode="alwaysScroll" />
     
 </LinearLayout>
