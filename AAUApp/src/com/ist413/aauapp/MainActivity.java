@@ -15,7 +15,7 @@ public class MainActivity extends FragmentActivity {
     @Override
 	public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.mainscreen_fragment);
+        setContentView(R.layout.mainscreen);
         
         // Creating menu 
         slidingMenu = new SlidingMenu(this);
